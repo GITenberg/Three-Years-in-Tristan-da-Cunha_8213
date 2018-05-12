@@ -1,10 +1,16 @@
 _repo: Three-Years-in-Tristan-da-Cunha_8213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barrow, Katherine Mary
     gutenberg_agent_id: '2701'
     url: http://www.gutenberg.org/2009/agents/2701
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8213#Three-Years-in-Tristan-da-Cunha
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
